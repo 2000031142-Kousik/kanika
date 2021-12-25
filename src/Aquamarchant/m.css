@@ -1,0 +1,15 @@
+.framebox{
+    background-color: burlywood;
+    
+    text-align: center;
+}
+.table{
+    
+    align: center;
+    margin-left: 40rem;
+    
+}
+.table>p{
+    margin-left:-40rem;
+    text-decoration:underline;
+}

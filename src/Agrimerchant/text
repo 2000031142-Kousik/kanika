@@ -1,0 +1,20 @@
+
+
+
+<div className='framebox4'>
+<iframe style={style}src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30602.50440521714!2d80.5964079395508!3d16.510286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f1c2d2306a4d%3A0x5a8f007f69f094a3!2sSri%20Raja%20Rajeshwari%20Vegetables!5e0!3m2!1sen!2sin!4v1607743296020!5m2!1sen!2sin" ></iframe>    
+<div>
+Sri Raja Rajeshwari Vegetables
+<p>Address : Krishnalanka, Vijayawada, Andhra Pradesh 520001</p>
+
+  </div>
+</div>
+
+  </div>
+  )
+
+    
+
+}
+
+export default Agrimerchant;
